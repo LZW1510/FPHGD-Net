@@ -23,7 +23,7 @@ For training, we use 400 images from the training set and test set of the BSDS50
 `python test_code_tiny.py --cs_ratio 0.01/0.05/0.1/0.3/0.5 --test_name Set11/Urban100`
 - For FPHGD-Net:
 `python test_code_middle.py --cs_ratio 0.01/0.05/0.1/0.3/0.5 --test_name Set11/Urban100`
-## :Citation
+## Citation
 If you find the code helpful in your research or work, please cite our papers:      
 ```
 @INPROCEEDINGS{10222347,
